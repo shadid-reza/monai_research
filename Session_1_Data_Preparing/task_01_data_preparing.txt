@@ -1,0 +1,5 @@
+Your task is to convert the 'Task09_Spleen' dataset to feedalbe dataset and prepare for "MONAI" framework (Individualy).
+Next, is it possible to auto generate the folder structure which is essential for the data preparing process? If it is, then plz try to implement.
+
+
+You are free to use anycode and libraries. You can share code but you have to understand the basics.
